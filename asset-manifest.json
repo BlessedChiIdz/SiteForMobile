@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BlessedChiIdz.github.io/static/css/main.8fa09260.css",
+    "main.js": "/BlessedChiIdz.github.io/static/js/main.dfdcd232.js",
+    "index.html": "/BlessedChiIdz.github.io/index.html",
+    "main.8fa09260.css.map": "/BlessedChiIdz.github.io/static/css/main.8fa09260.css.map",
+    "main.dfdcd232.js.map": "/BlessedChiIdz.github.io/static/js/main.dfdcd232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa09260.css",
+    "static/js/main.dfdcd232.js"
+  ]
+}
